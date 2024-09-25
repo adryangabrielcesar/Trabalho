@@ -1,0 +1,19 @@
+body{background-color: aqua;}
+
+h1{font-size: 60px;
+   color: darkred;}
+
+#ima1{width: 45%;
+      border-style: double;
+      border-color: firebrick;
+      border-width: 30px;}
+
+h3{font-size: 60px;
+   color: darkorange;}
+
+#ima2{width: 45%;
+      border-style: double;
+      border-color: goldenrod;
+      border-width: 30px;}
+
+h4{font-size: 25px;}
