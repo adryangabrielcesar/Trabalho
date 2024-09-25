@@ -4,16 +4,16 @@ h1{font-size: 60px;
    color: darkred;}
 
 #ima1{width: 45%;
-      border-style: double;
-      border-color: firebrick;
+      border-style: groove;
+      border-color: rgb(178, 168, 34);
       border-width: 30px;}
 
 h3{font-size: 60px;
    color: darkorange;}
 
 #ima2{width: 45%;
-      border-style: double;
-      border-color: goldenrod;
+      border-style:groove;
+      border-color: rgb(218, 32, 32);
       border-width: 30px;}
 
 h4{font-size: 25px;}
