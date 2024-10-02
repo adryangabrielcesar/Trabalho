@@ -3,9 +3,14 @@ body{background-color: gray;}
 h1{font-size: 60px;
    color: darkred;}
 
+h1{border-width: 10px;
+   border-style: double;
+   border-color: brown;
+   margin-right: 45%};
+
 #ima1{width: 45%;
       border-style: groove;
-      border-color: rgb(178, 168, 34);
+      border-color: rgb(184, 14, 14);
       border-width: 30px;}
 
 h3{font-size: 60px;
@@ -13,13 +18,10 @@ h3{font-size: 60px;
 
 #ima2{width: 45%;
       border-style:groove;
-      border-color: rgb(218, 32, 32);
+      border-color: rgb(190, 173, 16);
       border-width: 30px;}
 
 h4{font-size: 25px;}
 
-h1{border-width: 10px;
-   border-style: double;
-   border-color: brown;
-   margin-right: 45%};
+
 
