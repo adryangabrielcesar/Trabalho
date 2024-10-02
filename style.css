@@ -8,6 +8,9 @@ h1{border-width: 10px;
    border-color: brown;
    margin-right: 45%};
 
+h2{border-style: hidden;
+   border-color: rgb(128, 5, 5);}
+
 #ima1{width: 45%;
       border-style: groove;
       border-color: rgb(184, 14, 14);
@@ -19,9 +22,12 @@ h3{font-size: 60px;
 #ima2{width: 45%;
       border-style:groove;
       border-color: rgb(190, 173, 16);
-      border-width: 30px;}
+      border-width: 25px;}
 
 h4{font-size: 25px;}
+
+h4{border-style: hidden;
+   border-color: rgb(146, 144, 5);}
 
 
 
